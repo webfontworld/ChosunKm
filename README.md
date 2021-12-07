@@ -1,5 +1,3 @@
-# ChosunKm
-
 # 조선굵은명조(ChosunKm)
 
 <a href="https://wess.tistory.com" target="_blank">
